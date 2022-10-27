@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samridhi07
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Arduino programming.
+- 🌱 I’m currently
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at samridhigupta0707@gmail.com
 
